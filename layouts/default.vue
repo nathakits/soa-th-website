@@ -1,12 +1,16 @@
 <template>
   <div class="w-full h-full">
-    <h1>Homepage</h1>
-    <nuxt-link to="journey">Journey</nuxt-link>
+    <SHeader />
+    <nuxt />
+    <SFooter />
   </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+  name: 'DefaultLayout',
 }
 </script>
+
+<style>
+</style>
