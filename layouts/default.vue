@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-full">
+  <div class="h-full m-0 xl:mx-20">
     <SHeader />
     <nuxt />
     <SFooter />
@@ -11,6 +11,3 @@ export default {
   name: 'DefaultLayout',
 }
 </script>
-
-<style>
-</style>
