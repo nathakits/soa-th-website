@@ -40,6 +40,8 @@
     "husky": "^7.0.4",
     "lint-staged": "^12.1.2",
     "postcss": "^8.4.4",
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "sass": "^1.49.11",
+    "sass-loader": "^10.2.1"
   }
 }
