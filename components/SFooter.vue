@@ -9,7 +9,3 @@ export default {
   name: 'SFooter',
 }
 </script>
-
-
-<style>
-</style>
